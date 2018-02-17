@@ -1,6 +1,6 @@
 <?php
 /*
-SrayacoinRPC-PHP
+StrayacoinRPC-PHP
 A simple class for making calls to Strayacoin's API using PHP.
 https://github.com/adelaidecreative/strayacoinrpc-php/
 ====================
