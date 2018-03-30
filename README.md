@@ -12,9 +12,9 @@ Getting Started
 
 	`$strayacoin = new Strayacoin('username','password');`
 
-	Optionally, you can specify a host, port. Default is HTTP on localhost port 6969.
+	Optionally, you can specify a host, port. Default is HTTP on localhost port 9666.
 
-	`$strayacoin = new Strayacoin('username','password','localhost','6969');`
+	`$strayacoin = new Strayacoin('username','password','localhost','9666');`
 
 	If you wish to make an SSL connection you can set an optional CA certificate or leave blank
 	`$strayacoin->setSSL('/full/path/to/mycertificate.cert');`
